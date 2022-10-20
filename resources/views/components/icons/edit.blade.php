@@ -1,0 +1,1 @@
+<span class="text-primary mx-1"><i class='bx bx-edit-alt'></i></span>
